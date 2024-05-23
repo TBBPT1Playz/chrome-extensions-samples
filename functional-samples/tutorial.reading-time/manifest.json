@@ -14,7 +14,7 @@
     {
       "js": ["scripts/content.js"],
       "matches": [
-        "https://developer.chrome.com/docs/extensions/*",
+        "https://amazon.com",
         "https://developer.chrome.com/docs/webstore/*"
       ]
     }
